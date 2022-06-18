@@ -1,0 +1,2 @@
+git stash <filename>
+git pull origin
